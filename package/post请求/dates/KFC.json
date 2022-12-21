@@ -1,0 +1,366 @@
+[
+    {
+        "Table": [
+            {
+                "rowcount": 388
+            }
+        ],
+        "Table1": []
+    },
+    {
+        "Table": [
+            {
+                "rowcount": 388
+            }
+        ],
+        "Table1": [
+            {
+                "rownum": 1,
+                "storeName": "杭州庆丰",
+                "addressDetail": "教工路23号",
+                "pro": "点唱机,店内参观,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 2,
+                "storeName": "富阳大润发",
+                "addressDetail": "孙权路209号",
+                "pro": "Wi-Fi,店内参观,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 3,
+                "storeName": "杭州复兴",
+                "addressDetail": "复兴路103号TEL:86732723",
+                "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 4,
+                "storeName": "余杭交通大厦",
+                "addressDetail": "余杭邱山大街477号",
+                "pro": "Wi-Fi,店内参观,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 5,
+                "storeName": "杭州运河广场",
+                "addressDetail": "金华路与衢州街交叉口运河广场地下一层(区政府对面)TEL：88162340",
+                "pro": "Wi-Fi,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 6,
+                "storeName": "萧山泰富早餐06：30供应",
+                "addressDetail": "泰富广场一楼 TEL：82700177",
+                "pro": "礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 7,
+                "storeName": "杭州肯德基有限公司杭州浦沿",
+                "addressDetail": "滨江区浦沿镇浦沿路和滨文路交叉路口",
+                "pro": "点唱机,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 8,
+                "storeName": "香积寺路肯德基",
+                "addressDetail": "香积寺路17号TEL:85886212",
+                "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 9,
+                "storeName": "杭州红石",
+                "addressDetail": "湖墅南路216-218号",
+                "pro": "店内参观,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 10,
+                "storeName": "新塘乐购",
+                "addressDetail": "新塘路29-31号",
+                "pro": "点唱机,店内参观,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            }
+        ]
+    },
+    {
+        "Table": [
+            {
+                "rowcount": 388
+            }
+        ],
+        "Table1": [
+            {
+                "rownum": 11,
+                "storeName": "杭州阳光",
+                "addressDetail": "下沙区4号大街15-2新美商场一楼",
+                "pro": "Wi-Fi,店内参观,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 12,
+                "storeName": "余杭莱蒙",
+                "addressDetail": "临平藕花洲大街303号莱蒙商业中心",
+                "pro": "店内参观,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 13,
+                "storeName": "杭州文三",
+                "addressDetail": "文三路478号华星时代广场C座一层",
+                "pro": null,
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 14,
+                "storeName": "杭州万象",
+                "addressDetail": "体育场路430号",
+                "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 15,
+                "storeName": "杭州九堡",
+                "addressDetail": "杭海路878路金海商城一层",
+                "pro": "礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 16,
+                "storeName": "萧山香江",
+                "addressDetail": "萧山萧绍路1314号香江大厦1—2楼",
+                "pro": "Wi-Fi,店内参观,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 17,
+                "storeName": "杭州秋涛",
+                "addressDetail": "秋涛北路248华润Tel87114750",
+                "pro": "Wi-Fi,点唱机,店内参观,礼品卡,手机点餐",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 18,
+                "storeName": "富阳龙山",
+                "addressDetail": "龙山路126号",
+                "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 19,
+                "storeName": "萧山拱秀",
+                "addressDetail": "城厢镇拱秀路169号",
+                "pro": "点唱机,店内参观,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 20,
+                "storeName": "杭州北山",
+                "addressDetail": "西湖区北山路85-87号",
+                "pro": "Wi-Fi,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            }
+        ]
+    },
+    {
+        "Table": [
+            {
+                "rowcount": 388
+            }
+        ],
+        "Table1": [
+            {
+                "rownum": 21,
+                "storeName": "瓜沥航民",
+                "addressDetail": "萧山区瓜沥镇东灵路34－36号",
+                "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 22,
+                "storeName": "杭州钛合",
+                "addressDetail": "朝晖路168-4，钛合广场一楼",
+                "pro": "Wi-Fi,点唱机,店内参观,礼品卡,手机点餐",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 23,
+                "storeName": "杭州福雷德",
+                "addressDetail": "经济技术开发区学林街99号福雷德广场",
+                "pro": "点唱机,店内参观,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 24,
+                "storeName": "杭州转塘世纪联华餐厅",
+                "addressDetail": "西湖区转塘镇转塘江口大厦一楼",
+                "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 25,
+                "storeName": "半山中联",
+                "addressDetail": "半山路中联百货一楼 Tel88176495",
+                "pro": "Wi-Fi,店内参观,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 26,
+                "storeName": "余杭禹航",
+                "addressDetail": "余杭镇禹航路908号",
+                "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 27,
+                "storeName": "庆春银泰",
+                "addressDetail": "庆春银泰百货一楼T:86533298",
+                "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 28,
+                "storeName": "留下西溪",
+                "addressDetail": "留下大街107号",
+                "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 29,
+                "storeName": "桐庐大润发",
+                "addressDetail": "桐君街道金堂山路128号大润发超一搂",
+                "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 30,
+                "storeName": "杭州星光",
+                "addressDetail": "江南大道228号星光大道商业街一楼",
+                "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            }
+        ]
+    },
+    {
+        "Table": [
+            {
+                "rowcount": 388
+            }
+        ],
+        "Table1": [
+            {
+                "rownum": 31,
+                "storeName": "古墩路印象城肯德基",
+                "addressDetail": "古墩路588号印象城二楼",
+                "pro": "Wi-Fi,店内参观,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 32,
+                "storeName": "建德大润发",
+                "addressDetail": "严州大道新安江街道毕家后",
+                "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 33,
+                "storeName": "杭州湖滨",
+                "addressDetail": "东坡路8号（知味观边上）",
+                "pro": "Wi-Fi,点唱机,礼品卡,手机点餐",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 34,
+                "storeName": "丁桥物美",
+                "addressDetail": "丁桥镇紫丁香街新城广场一楼肯德基",
+                "pro": "点唱机,店内参观,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 35,
+                "storeName": "西溪印象城SEL",
+                "addressDetail": "五常大道和天目山路交叉口，西溪印象城",
+                "pro": "精选店,礼品卡,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 36,
+                "storeName": "杭州新解百",
+                "addressDetail": "解放路249号（国货路和浣纱路交叉口）",
+                "pro": "Wi-Fi,点唱机,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 37,
+                "storeName": "万象城KPRO",
+                "addressDetail": "富春路701号华润万象城地下1层B163",
+                "pro": "Wi-Fi,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 38,
+                "storeName": "富阳玉长城",
+                "addressDetail": "春秋北路271号玉长城商业广场",
+                "pro": "店内参观,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 39,
+                "storeName": "杭州信义坊",
+                "addressDetail": "湖墅南路488号TEL：88062769",
+                "pro": "点唱机,店内参观,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            },
+            {
+                "rownum": 40,
+                "storeName": "杭州北站",
+                "addressDetail": "汽车北站对面（月星家居一楼）",
+                "pro": "点唱机,礼品卡,礼品卡",
+                "provinceName": "浙江省",
+                "cityName": "杭州市"
+            }
+        ]
+    }
+]
