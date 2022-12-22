@@ -7,7 +7,7 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0'
 }
 
-url = 'https://movie.douban.com/j/chart/top_list?type=5&interval_id=100:90&action=&'
+url = 'http://i.chaoxing.com/base?t=1630578147178'
 
 
 def get_json(num):
