@@ -1,8 +1,6 @@
 # -*- coding=gbk -*-
-import json
 import random
-
-import xlrd
+from lxml import etree
 import urllib.request
 import urllib.parse
 
@@ -50,5 +48,27 @@ class spider:
         self.save(content)
 
 
+"""
+solution用于解析html
+"""
+class solution:
+
+    def read_html(self):
+        with open('dates/星巴克饮品.html', 'r', encoding='utf-8') as f:
+            res = f.read()
+        return res
+
+    def analysis(self, content, config):
+        tree = etree.HTML(content)
+
+        res = tree.xpath(config)
+
+        return res
+
+    def __init__(self):
+        res = self.read_html()
+        print(self.analysis(res,'//ul[@class="grid padded-3 product"]/li/a/strong/text()'))
+
+
 if __name__ == '__main__':
-    spider()
+    solution()
