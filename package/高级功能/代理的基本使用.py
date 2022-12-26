@@ -12,8 +12,9 @@ request = urllib.request.Request(url=url, headers=headers)
 
 ## 代理
 # 代理网址：https://www.kuaidaili.com/free/
+# 必须与url的协议对上
 proxies = {
-    'http': '121.13.252.60:41564'
+    'https': '121.13.252.60:41564'
 }
 
 handler = urllib.request.ProxyHandler(proxies=proxies)

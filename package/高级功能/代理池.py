@@ -2,12 +2,13 @@ import random
 import urllib.request
 import urllib.parse
 
-url = 'https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=monline_7_dg&wd=ip'
+url = 'http://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=monline_7_dg&wd=ip'
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:104.0) Gecko/20100101 Firefox/104.0',
 }
 
+# 必须与url的协议对上
 proxies_pool = [
     {'http': '121.13.252.60:41564'},
     {'http': '120.24.76.81:8123'}
