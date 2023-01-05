@@ -117,3 +117,17 @@ j
 :package/scrapy_demo/scrapy_test1/scrapy_test1/pipelines.py,f\5\f5745c7dfd350ac44af2636ec4c47260b25b86ab
 i
 9package/scrapy_demo/scrapy_test1/scrapy_test1/settings.py,1\8\18e03d7b6b4e8c0f070fde243debeb62dd54f169
+}
+Mpackage/scrapy_demo/scrapy_test6_fanyi/scrapy_test6_fanyi/spiders/testpost.py,8\5\8530a86c3bc2e301dbf033b39947bb9a73fdc51b
+u
+Epackage/scrapy_demo/scrapy_test6_fanyi/scrapy_test6_fanyi/settings.py,d\5\d5c5ef55acf9217e889f1a784901a0741a2f3175
+\
+,package/实例素材/furry/furry/settings.py,0\4\04b980140b4b9967a9b0f362477bb7e78eb0ca13
+Y
+)package/实例素材/furry/furry/items.py,8\8\88099fa0c59d4e63cb4da6b41572a2f349e46249
+]
+-package/实例素材/furry/furry/pipelines.py,d\8\d87d019b061182ecce13a532e4d5828e70c6191e
+f
+6package/实例素材/furry/furry/dates/furry_game.json,9\1\91eb2a98f21b67293bfabe2f98a6847d3e20f866
+`
+0package/实例素材/furry/furry/spiders/itch.py,0\0\008b6379f80d29f041ef83f11aba317c64e863c1
